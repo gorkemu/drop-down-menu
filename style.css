@@ -1,0 +1,39 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-btn {
+  width: 152px;
+  height: 40px;
+  padding: 8px 16px;
+  background-color: #382110;
+  color: #eee;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f4f1ea;
+}
+
+.dropdown-content a {
+  background-color: #f4f1ea;
+  color: #382110;
+  padding: 8px 16px;
+  text-decoration: none;
+  display: block;
+  min-width: 120px;
+  text-align: center;
+}
+
+.dropdown-content a:hover {
+  background-color: #e6e6e6;
+  font-weight: 700;
+}
+
+.visible {
+  display: block;
+}

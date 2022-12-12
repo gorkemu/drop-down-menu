@@ -1,0 +1,23 @@
+{
+  "name": "@gorkemu/drop-down-menu",
+  "version": "1.0.0",
+  "description": "Drop-down menu for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorkemu/drop-down-menu.git"
+  },
+  "keywords": [
+    "dropdown",
+    "dropdown menu"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorkemu/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/gorkemu/drop-down-menu#readme"
+}
